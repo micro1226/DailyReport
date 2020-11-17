@@ -1,5 +1,14 @@
 # Jenkins Build
 
+## 关键词 
+---------
+**Jenkins Build**   
+**ARCHIVE FAILED**  
+**security unlock-keychain**
+
+
+## 内容
+---------
 jenkins build的时候一直遇到这样的问题
 ```
 15:41:02  ** ARCHIVE FAILED **
